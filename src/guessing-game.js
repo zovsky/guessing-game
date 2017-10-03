@@ -1,6 +1,6 @@
 class GuessingGame {
     constructor() {
-        thin.min = null;
+        this.min = null;
         this.max = null;
     }
 
